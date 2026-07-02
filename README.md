@@ -1,4 +1,4 @@
-# 3D Game Starter - Multi Engine (Unreal, Unity, Godot, Defold, Raylib, The Forge)
+# 2D Game Starter - Multi Engine (Android, Angular, React, Unity, Godot, SDL, Raylib)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Damien_Fremont?style=social)](https://twitter.com/Damien_Fremont)
@@ -6,13 +6,16 @@
 
 :warning: **WORK IN PROGRESS !!!**
 
-2025's exercise in game engine and logic modules.
+
+![alt text](./docs/readme-header.jpg)
+
+I made the same game in 8 engines !
 
 Spoiler: Don't do it !!! Unless you intend to build your own custom engine in the futur, or be able to maintain your code in 20+ years.
 
 Pros & Cons:
 - less dependency to engine
-- 
+- too much complexity
 
 ## Content
 
