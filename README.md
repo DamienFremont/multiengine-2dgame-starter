@@ -37,8 +37,6 @@ Pros & Cons:
 
 ![alt text](./docs/diagrams-1.png)
 
-![alt text](./docs/diagrams-2.png)
-
 ## Features
 
 - Engine
