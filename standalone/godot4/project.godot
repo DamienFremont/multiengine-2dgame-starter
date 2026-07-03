@@ -10,8 +10,9 @@ config_version=5
 
 [application]
 
-config/name="Project Muzeum Cards Line"
-config/features=PackedStringArray("4.7", "Mobile")
+config/name="Project Muzeum - Cards Line"
+run/main_scene="uid://cyj2fouvhn3j6"
+config/features=PackedStringArray("4.7", "C#", "Mobile")
 config/icon="res://icon.svg"
 
 [display]
