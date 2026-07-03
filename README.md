@@ -39,19 +39,15 @@ Pros & Cons:
 
 ## Features
 
-- Engine
-  - [ ] Godot (4.7)
-  - [ ] Unity (6.0.1)
-  - [ ] Android
-  - [ ] Raylib (5.0)
-- Features
-  - [ ] 2D
-  - [ ] Audio
-    - [ ] Sound effects
-    - [ ] Music
-  - [ ] UI
-    - [ ] Main Menu
-    - [ ] Settings Menu
+- [x] ⚙️ Engine: Godot (4.7)
+- [ ] ⚙️ Engine: Unity (6.0.1)
+- [ ] ⚙️ Engine: Android
+- [ ] ⚙️ Engine: Raylib (5.0)
+- [ ] 💻 UI: Main Menu
+- [ ] 💻 UI: Settings Menu
+- [ ] 🔉 Audio: Sound effects
+- [ ] 🔉 Audio: Music
+- [ ] 🖼️ 2D
 
 Repository layout:
 ```
