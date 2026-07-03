@@ -2,12 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Damien_Fremont?style=social)](https://twitter.com/Damien_Fremont)
-[!["Buy Me A Coffee"](./docs/buymeacoffee-20.png)](https://www.buymeacoffee.com/damienfremont)
+[!["Buy Me A Coffee"](./docs/readme/buymeacoffee-20.png)](https://www.buymeacoffee.com/damienfremont)
 
 :warning: **WORK IN PROGRESS !!!**
 
 
-![alt text](./docs/readme-header.jpg)
+![alt text](./docs/readme/header.jpg)
 
 I made the same game in 8 engines !
 
@@ -35,36 +35,23 @@ Pros & Cons:
 
 ## Screenshots
 
-![alt text](./docs/diagrams-1.png)
+![alt text](./docs/readme/diagrams-1.png)
 
 ## Features
 
 - Engine
-  - [ ] Unreal (5.4.3)
+  - [ ] Godot (4.7)
   - [ ] Unity (6.0.1)
-  - [ ] Godot (4.3)
-  - [ ] Defold (1.9.1)
+  - [ ] Android
   - [ ] Raylib (5.0)
-  - [ ] TheForge (1.58)
 - Features
-  - [ ] 3D
-    - [ ] Camera (Third Person)
-    - [ ] Skybox (Cube)
-    - [ ] Inputs (Gamepad)
-    - [ ] Lighting (World and Character)
-    - [ ] Material (Texture or Shaders)
-  - [ ] Physics
-    - [ ] Gravity
-    - [ ] Colision
+  - [ ] 2D
   - [ ] Audio
     - [ ] Sound effects
+    - [ ] Music
   - [ ] UI
     - [ ] Main Menu
     - [ ] Settings Menu
-- Examples:
-  - [ ] "Unreal" First Person (FPS)
-  - [ ] "Unreal" Third Person (TPS)
-  - [ ] "Matrix" Demo (OpenWorld)
 
 Repository layout:
 ```
@@ -73,42 +60,12 @@ Repository layout:
 ├── infra
 ├── lib
 ├── platform
-│   ├── engine
-│   └── game
+│   ├── assets
+│   └── core
 ├── standalone
-│   ├── unreal_desktop_win64
-│   ├── unity_desktop_win64
+│   ├── android
+│   ├── unity
 │   └── ...
 └── tools
-    └── blender
     └── ci
 ```
-
-# Unreal 5
-
-## Create project
-
-1. start Unreal:
-    1. create project "MyGameUnreal5"
-    2. menu -> edit -> plugins -> add -> third party -> "MyGame"
-2. close Unreal
-3. start VisualStudio
-4. start Unreal
-
-## Usage
-
-1. start Unreal:
-    1. menu -> tools -> open visual studio
-2. VisualStudio:
-    1. code...
-    2. hot-reload code(Ctrl+Alt+F11)
-3. Unreal
-    1. play (Alt+P)
-    2. test...
-    3. detach camera / debug scene (F8)
-    4. press ESC
-
-
-- Unreal:
-  - [UE4 3rd party library plugin workaround (YouTube)](https://www.youtube.com/watch?v=LZr-IDTM294)
-  - [Adding custom third-party library to plugin from scratch](https://unrealcommunity.wiki/adding-custom-third-party-library-to-plugin-from-scratch-867b28)
