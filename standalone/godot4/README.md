@@ -29,6 +29,12 @@ PROEJCT MUZEUM CARDS LINE
 .\tools\ci\dev-godot4.bat
 ```
 
+## Release
+
+```bash
+.\tools\ci\release-godot4.bat
+```
+
 ## Resources
 
 - Native

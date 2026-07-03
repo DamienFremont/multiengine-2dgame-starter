@@ -69,3 +69,21 @@ Repository layout:
 └── tools
     └── ci
 ```
+
+## Install
+
+```bash
+.\tools\ci\clean.bat
+```
+
+## Usage
+
+```bash
+.\tools\ci\dev.bat
+```
+
+## Release
+
+```bash
+.\tools\ci\release.bat
+```
