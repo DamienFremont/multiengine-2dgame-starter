@@ -66,6 +66,14 @@ Repository layout:
     └── ci
 ```
 
+## Specs
+
+![alt text](./docs/mockups/mockups-1-icon.jpg)
+
+![alt text](./docs/mockups/mockups-2-introscreen.png)
+
+![alt text](./docs/mockups/mockups-3-titlescreen.png)
+
 ## Install
 
 ```bash
