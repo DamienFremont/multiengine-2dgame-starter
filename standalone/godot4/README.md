@@ -17,6 +17,18 @@ PROEJCT MUZEUM CARDS LINE
 - Godot 4.7
   - GodotSteam
 
+## Install
+
+```bash
+.\tools\ci\clean.bat
+```
+
+## Usage
+
+```bash
+.\tools\ci\dev-godot4.bat
+```
+
 ## Resources
 
 - Native
