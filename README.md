@@ -68,11 +68,10 @@ Repository layout:
 
 ## Specs
 
-![alt text](./docs/mockups/mockups-1-icon.jpg)
-
-![alt text](./docs/mockups/mockups-2-introscreen.png)
-
-![alt text](./docs/mockups/mockups-3-titlescreen.png)
+| Mockups | Mockups |
+|---------|---------|
+| ![alt text](./docs/mockups/mockups-1-icon.jpg) | ![alt text](./docs/mockups/mockups-2-introscreen.jpg) |
+| ![alt text](./docs/mockups/mockups-3-titlescreen.jpg) | ![alt text](./docs/mockups/mockups-4-levelscreen.jpg) |
 
 ## Install
 
